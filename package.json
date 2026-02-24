@@ -23,6 +23,6 @@
     "test": "node --test ./tests/main.test.js"
   },
   "dependencies": {
-    "xlsx": "file:vendor/xlsx-0.20.3.tgz"
+    "xlsx-republish": "^0.20.3"
   }
 }
